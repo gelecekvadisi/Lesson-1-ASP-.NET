@@ -1,0 +1,7 @@
+C:\Users\emirgzc\source\repos\MyFirstProject\ConsoleTypes\bin\Debug\ConsoleTypes.exe.config
+C:\Users\emirgzc\source\repos\MyFirstProject\ConsoleTypes\bin\Debug\ConsoleTypes.exe
+C:\Users\emirgzc\source\repos\MyFirstProject\ConsoleTypes\bin\Debug\ConsoleTypes.pdb
+C:\Users\emirgzc\source\repos\MyFirstProject\ConsoleTypes\obj\Debug\ConsoleTypes.csproj.AssemblyReference.cache
+C:\Users\emirgzc\source\repos\MyFirstProject\ConsoleTypes\obj\Debug\ConsoleTypes.csproj.CoreCompileInputs.cache
+C:\Users\emirgzc\source\repos\MyFirstProject\ConsoleTypes\obj\Debug\ConsoleTypes.exe
+C:\Users\emirgzc\source\repos\MyFirstProject\ConsoleTypes\obj\Debug\ConsoleTypes.pdb

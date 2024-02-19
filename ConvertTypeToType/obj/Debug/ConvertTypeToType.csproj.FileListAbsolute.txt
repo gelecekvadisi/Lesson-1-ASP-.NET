@@ -1,0 +1,7 @@
+C:\Users\emirgzc\source\repos\MyFirstProject\ConvertTypeToType\bin\Debug\ConvertTypeToType.exe.config
+C:\Users\emirgzc\source\repos\MyFirstProject\ConvertTypeToType\bin\Debug\ConvertTypeToType.exe
+C:\Users\emirgzc\source\repos\MyFirstProject\ConvertTypeToType\bin\Debug\ConvertTypeToType.pdb
+C:\Users\emirgzc\source\repos\MyFirstProject\ConvertTypeToType\obj\Debug\ConvertTypeToType.csproj.AssemblyReference.cache
+C:\Users\emirgzc\source\repos\MyFirstProject\ConvertTypeToType\obj\Debug\ConvertTypeToType.csproj.CoreCompileInputs.cache
+C:\Users\emirgzc\source\repos\MyFirstProject\ConvertTypeToType\obj\Debug\ConvertTypeToType.exe
+C:\Users\emirgzc\source\repos\MyFirstProject\ConvertTypeToType\obj\Debug\ConvertTypeToType.pdb
