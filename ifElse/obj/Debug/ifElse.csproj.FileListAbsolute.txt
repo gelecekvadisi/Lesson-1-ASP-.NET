@@ -1,0 +1,7 @@
+C:\Users\emirgzc\source\repos\MyFirstProject\ifElse\bin\Debug\ifElse.exe.config
+C:\Users\emirgzc\source\repos\MyFirstProject\ifElse\bin\Debug\ifElse.exe
+C:\Users\emirgzc\source\repos\MyFirstProject\ifElse\bin\Debug\ifElse.pdb
+C:\Users\emirgzc\source\repos\MyFirstProject\ifElse\obj\Debug\ifElse.csproj.AssemblyReference.cache
+C:\Users\emirgzc\source\repos\MyFirstProject\ifElse\obj\Debug\ifElse.csproj.CoreCompileInputs.cache
+C:\Users\emirgzc\source\repos\MyFirstProject\ifElse\obj\Debug\ifElse.exe
+C:\Users\emirgzc\source\repos\MyFirstProject\ifElse\obj\Debug\ifElse.pdb

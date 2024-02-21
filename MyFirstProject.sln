@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTypes", "DataTypes\Data
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertTypeToType", "ConvertTypeToType\ConvertTypeToType.csproj", "{38288A3D-76F8-4795-BE6D-66A3250DBAC2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operatorss", "Operatorss\Operatorss.csproj", "{EF09F60F-7B5D-46D4-BE58-313180FBC14A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ifElse", "ifElse\ifElse.csproj", "{86BC27A8-02D9-4F2F-92FF-D17EEF8FAF30}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{38288A3D-76F8-4795-BE6D-66A3250DBAC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38288A3D-76F8-4795-BE6D-66A3250DBAC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38288A3D-76F8-4795-BE6D-66A3250DBAC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF09F60F-7B5D-46D4-BE58-313180FBC14A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF09F60F-7B5D-46D4-BE58-313180FBC14A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF09F60F-7B5D-46D4-BE58-313180FBC14A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF09F60F-7B5D-46D4-BE58-313180FBC14A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86BC27A8-02D9-4F2F-92FF-D17EEF8FAF30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86BC27A8-02D9-4F2F-92FF-D17EEF8FAF30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86BC27A8-02D9-4F2F-92FF-D17EEF8FAF30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86BC27A8-02D9-4F2F-92FF-D17EEF8FAF30}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

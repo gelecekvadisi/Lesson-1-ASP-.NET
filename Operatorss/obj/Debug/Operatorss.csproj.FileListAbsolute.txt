@@ -1,0 +1,7 @@
+C:\Users\emirgzc\source\repos\MyFirstProject\Operatorss\bin\Debug\Operatorss.exe.config
+C:\Users\emirgzc\source\repos\MyFirstProject\Operatorss\bin\Debug\Operatorss.exe
+C:\Users\emirgzc\source\repos\MyFirstProject\Operatorss\bin\Debug\Operatorss.pdb
+C:\Users\emirgzc\source\repos\MyFirstProject\Operatorss\obj\Debug\Operatorss.csproj.AssemblyReference.cache
+C:\Users\emirgzc\source\repos\MyFirstProject\Operatorss\obj\Debug\Operatorss.csproj.CoreCompileInputs.cache
+C:\Users\emirgzc\source\repos\MyFirstProject\Operatorss\obj\Debug\Operatorss.exe
+C:\Users\emirgzc\source\repos\MyFirstProject\Operatorss\obj\Debug\Operatorss.pdb
