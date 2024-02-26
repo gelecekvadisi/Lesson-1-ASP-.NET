@@ -92,31 +92,133 @@ namespace ifElse
 
 			Console.WriteLine("-----------");
 
-			Console.WriteLine("Ay numarasını giriniz(1-12): ");
-			int ay = Convert.ToInt32(Console.ReadLine());
+			//Console.WriteLine("Ay numarasını giriniz(1-12): ");
+			//int ay = Convert.ToInt32(Console.ReadLine());
 
-			if (ay == 12 || ay == 1 || ay == 2)
+			//if (ay == 12 || ay == 1 || ay == 2)
+			//{
+			//	Console.WriteLine("Kış Mevsimi");
+			//}
+			//else if (ay >= 3 && ay <= 5)
+			//{
+			//	Console.WriteLine("İlkbahar mevsimi");
+			//}
+			//else if (ay >= 6 && ay <= 8)
+			//{
+			//	Console.WriteLine("Yaz mevsimi");
+			//}
+			//else if (ay >= 9 && ay <= 11)
+			//{
+			//	Console.WriteLine("Sonbahar mevsimi");
+			//}
+			//else
+			//{
+			//	Console.WriteLine("Geçersiz ay numarası girdiniz.");
+			//}
+
+			Console.WriteLine("-----------");
+
+			//ÖDEV 1
+
+			//Console.WriteLine("Hava sıcaklığını giriniz:");
+			//int sicaklikDegeri = Convert.ToInt32(Console.ReadLine());
+
+			//if (sicaklikDegeri < 5)
+			//{
+			//	Console.WriteLine("Soğuk");
+			//}
+			//else if (sicaklikDegeri >= 5 && sicaklikDegeri <= 25)
+			//{
+			//	Console.WriteLine("Ilık");
+			//}
+			//else
+			//{
+			//	Console.WriteLine("Sıcak");
+			//}
+
+			//Console.WriteLine("-----------");
+
+			//ÖDEV 3
+
+			//Console.WriteLine("Notunuzu Giriniz (0-100): ");
+			//int ogrenciNotu = Convert.ToInt32(Console.ReadLine());
+			//// int tam sayı, string metin
+
+			//if (ogrenciNotu >= 60)
+			//{
+			//	Console.WriteLine("Geçti");
+			//}
+			//else
+			//{
+			//	Console.WriteLine("Kaldı");
+			//}
+
+			Console.WriteLine("-----------");
+
+			//ÖDEV 5
+
+			//Console.WriteLine("Üç adet sayı giriniz: ");
+			//int sayi1 = Convert.ToInt32(Console.ReadLine());
+			//int sayi2 = Convert.ToInt32(Console.ReadLine());
+			//int sayi3 = Convert.ToInt32(Console.ReadLine());
+
+			//int enBuyukSayi = sayi1;
+
+			//         if (sayi2 > enBuyukSayi)
+			//         {
+			//	enBuyukSayi = sayi2;
+			//         }
+			//if (sayi3>enBuyukSayi)
+			//{
+			//	enBuyukSayi = sayi3;
+			//}
+
+			//Console.WriteLine("En büyük sayı: " + enBuyukSayi);
+
+			Console.WriteLine("-----------");
+
+			Console.WriteLine("Birinci sayıyı giriniz: ");
+			double sayi1 = Convert.ToDouble(Console.ReadLine());
+
+			Console.WriteLine("İkinci sayıyı giriniz: ");
+			double sayi2 = Convert.ToDouble(Console.ReadLine());
+
+			Console.WriteLine("Yapmak istediğiniz işlemi giriniz(+ , - , * , /): ");
+
+			char islem = Console.ReadKey().KeyChar;
+			Console.WriteLine();			
+
+			if (islem == '+')
 			{
-				Console.WriteLine("Kış Mevsimi");
+				Console.WriteLine("Sonuç: " + (sayi1 + sayi2));
 			}
-			else if (ay >= 3 && ay <= 5)
+			else if (islem == '-')
 			{
-				Console.WriteLine("İlkbahar mevsimi");
+				Console.WriteLine("Sonuç: " + (sayi1 - sayi2));
 			}
-			else if (ay >= 6 && ay <= 8)
+			else if (islem == '*')
 			{
-				Console.WriteLine("Yaz mevsimi");
+				Console.WriteLine("Sonuç: " + (sayi1 * sayi2));
 			}
-			else if (ay >= 9 && ay <= 11)
+			else if (islem == '/')
 			{
-				Console.WriteLine("Sonbahar mevsimi");
+				if (sayi2 != 0)
+				{
+					Console.WriteLine("Sonuç: " + (sayi1 / sayi2));
+				}
+				else
+				{
+					Console.WriteLine("Bir sayı sıfıra bölünemez!");
+				}
 			}
 			else
 			{
-				Console.WriteLine("Geçersiz ay numarası girdiniz.");
+				Console.WriteLine("Geçersiz işlem!");
 			}
 
 			Console.ReadLine();
+
+			
 		}
 	}
 }

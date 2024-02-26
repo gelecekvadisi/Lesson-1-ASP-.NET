@@ -1,0 +1,7 @@
+C:\Users\emirgzc\source\repos\MyFirstProject\SingleLineIff\bin\Debug\SingleLineIff.exe.config
+C:\Users\emirgzc\source\repos\MyFirstProject\SingleLineIff\bin\Debug\SingleLineIff.exe
+C:\Users\emirgzc\source\repos\MyFirstProject\SingleLineIff\bin\Debug\SingleLineIff.pdb
+C:\Users\emirgzc\source\repos\MyFirstProject\SingleLineIff\obj\Debug\SingleLineIff.csproj.AssemblyReference.cache
+C:\Users\emirgzc\source\repos\MyFirstProject\SingleLineIff\obj\Debug\SingleLineIff.csproj.CoreCompileInputs.cache
+C:\Users\emirgzc\source\repos\MyFirstProject\SingleLineIff\obj\Debug\SingleLineIff.exe
+C:\Users\emirgzc\source\repos\MyFirstProject\SingleLineIff\obj\Debug\SingleLineIff.pdb
