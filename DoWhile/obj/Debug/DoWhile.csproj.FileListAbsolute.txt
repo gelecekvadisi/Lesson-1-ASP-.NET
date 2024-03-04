@@ -1,0 +1,7 @@
+C:\Users\emirgzc\source\repos\MyFirstProject\DoWhile\bin\Debug\DoWhile.exe.config
+C:\Users\emirgzc\source\repos\MyFirstProject\DoWhile\bin\Debug\DoWhile.exe
+C:\Users\emirgzc\source\repos\MyFirstProject\DoWhile\bin\Debug\DoWhile.pdb
+C:\Users\emirgzc\source\repos\MyFirstProject\DoWhile\obj\Debug\DoWhile.csproj.AssemblyReference.cache
+C:\Users\emirgzc\source\repos\MyFirstProject\DoWhile\obj\Debug\DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\emirgzc\source\repos\MyFirstProject\DoWhile\obj\Debug\DoWhile.exe
+C:\Users\emirgzc\source\repos\MyFirstProject\DoWhile\obj\Debug\DoWhile.pdb

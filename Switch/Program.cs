@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -127,30 +128,82 @@ namespace Switch
 
 			//Console.WriteLine("-------------------");
 
-			Console.WriteLine("Gün sayısı giriniz: ");
-			int gunSayisi = Convert.ToInt32(Console.ReadLine());
+			//Console.WriteLine("Gün sayısı giriniz: ");
+			//int gunSayisi = Convert.ToInt32(Console.ReadLine());
 
-			string ayAdi;
+			//string ayAdi;
 
-			switch (gunSayisi)
-			{
-				case 28:
-				case 29:
-					ayAdi = "Şubat";
+			//switch (gunSayisi)
+			//{
+			//	case 28:
+			//	case 29:
+			//		ayAdi = "Şubat";
+			//		break;
+			//	case 30:
+			//		ayAdi = "Nisan, Haziran, Eylül, Kasım";
+			//		break;
+			//	case 31:
+			//		ayAdi = "Ocak, Mart, Mayıs, Temmuz, Ağustos, Ekim,Aralık";
+			//		break;
+			//	default:
+			//		ayAdi = "Geçersiz gün sayısı";
+			//		break;
+			//}
+			//Console.WriteLine("Bu ay " + ayAdi + " ayıdır.");
+
+			//ÖDEV 1
+			//Console.WriteLine("Ay numarası giriniz (1-12):");
+			//int ayNumarasi = Convert.ToInt32(Console.ReadLine());
+
+			//switch (ayNumarasi)
+			//{
+			//	case 1:
+			//		Console.WriteLine("Ocak");
+			//		break;
+			//	case 2:
+			//		Console.WriteLine("Şubat");
+			//		break;
+			//	case 3:
+			//		Console.WriteLine("Mart");
+			//		break;
+			//	// diğer aylar
+			//	case 12:
+			//		Console.WriteLine("Aralık");
+			//		break;
+			//	default:
+			//		Console.WriteLine("Geçersiz ay numarası");
+			//		break;
+			//}
+
+			//ÖDEV 2
+			Console.WriteLine("Birinci sayıyı giriniz:");
+			int sayi1 = Convert.ToInt32(Console.ReadLine());
+
+			Console.WriteLine("İkinic sayıyı giriniz:");
+			int sayi2 = Convert.ToInt32(Console.ReadLine());
+
+			Console.WriteLine("Yapmak istediğiniz işlem(+,-,*,/):");
+			char islem = Console.ReadLine()[0];
+
+			switch(islem){
+				case '+':
+					Console.WriteLine($"Sonuç: {sayi1 + sayi2}");
 					break;
-				case 30:
-					ayAdi = "Nisan, Haziran, Eylül, Kasım";
+				case '-':
+					Console.WriteLine($"Sonuç: {sayi1 - sayi2}");
 					break;
-				case 31:
-					ayAdi = "Ocak, Mart, Mayıs, Temmuz, Ağustos, Ekim,Aralık";
+				case '*':
+					Console.WriteLine($"Sonuç: {sayi1 * sayi2}");
+					break;
+				case '/':
+					Console.WriteLine($"Sonuç: {sayi1 / sayi2}");
 					break;
 				default:
-					ayAdi = "Geçersiz gün sayısı";
+					Console.WriteLine("Geçersiz işlem");
 					break;
 			}
-			Console.WriteLine("Bu ay " + ayAdi + " ayıdır.");
 
-			Console.ReadLine();			
+			Console.ReadLine();
 		}
 	}
 }
