@@ -1,0 +1,7 @@
+C:\Users\emirgzc\source\repos\MyFirstProject\AsalSayiOdev\bin\Debug\AsalSayiOdev.exe.config
+C:\Users\emirgzc\source\repos\MyFirstProject\AsalSayiOdev\bin\Debug\AsalSayiOdev.exe
+C:\Users\emirgzc\source\repos\MyFirstProject\AsalSayiOdev\bin\Debug\AsalSayiOdev.pdb
+C:\Users\emirgzc\source\repos\MyFirstProject\AsalSayiOdev\obj\Debug\AsalSayiOdev.csproj.AssemblyReference.cache
+C:\Users\emirgzc\source\repos\MyFirstProject\AsalSayiOdev\obj\Debug\AsalSayiOdev.csproj.CoreCompileInputs.cache
+C:\Users\emirgzc\source\repos\MyFirstProject\AsalSayiOdev\obj\Debug\AsalSayiOdev.exe
+C:\Users\emirgzc\source\repos\MyFirstProject\AsalSayiOdev\obj\Debug\AsalSayiOdev.pdb
