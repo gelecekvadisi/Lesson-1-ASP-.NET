@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\emirgzc\\source\\repos\\MyFirstProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F9A78AE1-A98B-42AD-BB28-6BA8402EB30F}|DoWhile\\DoWhile.csproj|c:\\users\\emirgzc\\source\\repos\\myfirstproject\\dowhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9A78AE1-A98B-42AD-BB28-6BA8402EB30F}|DoWhile\\DoWhile.csproj|solutionrelative:dowhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03F8088C-E19E-4286-A8EA-4BABAB2EFC8F}|WhileDongusu\\WhileDongusu.csproj|c:\\users\\emirgzc\\source\\repos\\myfirstproject\\whiledongusu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03F8088C-E19E-4286-A8EA-4BABAB2EFC8F}|WhileDongusu\\WhileDongusu.csproj|solutionrelative:whiledongusu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41B85642-25C2-42F8-ACE9-DC57F23F9CE8}|ForeachDongusu\\ForeachDongusu.csproj|c:\\users\\emirgzc\\source\\repos\\myfirstproject\\foreachdongusu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41B85642-25C2-42F8-ACE9-DC57F23F9CE8}|ForeachDongusu\\ForeachDongusu.csproj|solutionrelative:foreachdongusu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{74B66CE0-2CC4-4B46-BC60-5CA241976DBE}|Arrays\\Arrays.csproj|c:\\users\\emirgzc\\source\\repos\\myfirstproject\\arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B66CE0-2CC4-4B46-BC60-5CA241976DBE}|Arrays\\Arrays.csproj|solutionrelative:arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,39 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\emirgzc\\source\\repos\\MyFirstProject\\DoWhile\\Program.cs",
-              "RelativeDocumentMoniker": "DoWhile\\Program.cs",
-              "ToolTip": "C:\\Users\\emirgzc\\source\\repos\\MyFirstProject\\DoWhile\\Program.cs",
-              "RelativeToolTip": "DoWhile\\Program.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAmwB8AAAAqAAAA",
+              "DocumentMoniker": "C:\\Users\\emirgzc\\source\\repos\\MyFirstProject\\Arrays\\Program.cs",
+              "RelativeDocumentMoniker": "Arrays\\Program.cs",
+              "ToolTip": "C:\\Users\\emirgzc\\source\\repos\\MyFirstProject\\Arrays\\Program.cs",
+              "RelativeToolTip": "Arrays\\Program.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAAAF0AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T18:45:26.933Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\emirgzc\\source\\repos\\MyFirstProject\\WhileDongusu\\Program.cs",
-              "RelativeDocumentMoniker": "WhileDongusu\\Program.cs",
-              "ToolTip": "C:\\Users\\emirgzc\\source\\repos\\MyFirstProject\\WhileDongusu\\Program.cs",
-              "RelativeToolTip": "WhileDongusu\\Program.cs",
-              "ViewState": "AQIAAEkAAAAAAAAAAAAmwFMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T18:16:01.376Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\emirgzc\\source\\repos\\MyFirstProject\\ForeachDongusu\\Program.cs",
-              "RelativeDocumentMoniker": "ForeachDongusu\\Program.cs",
-              "ToolTip": "C:\\Users\\emirgzc\\source\\repos\\MyFirstProject\\ForeachDongusu\\Program.cs",
-              "RelativeToolTip": "ForeachDongusu\\Program.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAmwB0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T17:45:22.034Z",
+              "WhenOpened": "2024-03-13T19:31:55.003Z",
               "EditorCaption": ""
             }
           ]
