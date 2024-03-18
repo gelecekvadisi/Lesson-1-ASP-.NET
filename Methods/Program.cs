@@ -101,6 +101,30 @@ namespace Methods
 
 			cizgiYazdir();
 
+			Console.WriteLine("Birinci sayıyı giriniz: ");
+			int alinanSayi1 = int.Parse(Console.ReadLine());
+
+			Console.WriteLine("İkinci sayıyı giriniz: ");
+			int alinanSayi2 = int.Parse(Console.ReadLine());
+
+			int toplam = AlinanSayilariTopla(alinanSayi1, alinanSayi2);
+			Console.WriteLine($"Toplam: {toplam}");
+
+			cizgiYazdir();
+
+			Console.WriteLine("Bir sayı giriniz: ");
+			double karekokSayi = double.Parse(Console.ReadLine());
+
+			double karekok = KarekokHesapla(karekokSayi);
+			Console.WriteLine($"Sayının karekökü: {karekok}");
+
+			Console.WriteLine("Bir sayı giriniz: ");
+			int ciftSayilar = int.Parse(Console.ReadLine());
+
+			CiftSayilariYazdir(ciftSayilar);
+
+			Selamlama("Muhammed Emir", "Sayın");
+
 			// 1 - PARAMETRESİZ METOTLAR
 
 			void hosgeldinYazdir() //metot tanımlama
@@ -194,7 +218,44 @@ namespace Methods
 				return fiyat + (fiyat * kdvOrani / 100);
 			}
 
-			// 22:30 mola
+			// ÖDEV 2
+
+			int AlinanSayilariTopla(int a, int b)
+			{
+				return a + b;
+			}
+
+			// ÖDEV 4
+
+			double KarekokHesapla(double karekokSayisi)
+			{
+				// Math -> Sqrt()
+				return Math.Sqrt(karekokSayisi);
+			}
+
+			// ÖDEV 5
+
+			void CiftSayilariYazdir(int sayimiz = 10)
+			{
+				if (sayimiz < 0)
+				{
+					sayimiz = 10;
+				}
+				// i++ , i = i + 1 , i += 1
+				for (int i = 2; i <= sayimiz; i += 2)
+				{
+					Console.WriteLine(i);
+				}
+			}
+
+			// ÖDEV 3
+
+			void Selamlama(string isim, string mesaj = "Merhaba")
+			{
+				Console.WriteLine($"{mesaj}, {isim}!");
+			}
+
+			// 22:45
 
 			Console.ReadLine();
 		}

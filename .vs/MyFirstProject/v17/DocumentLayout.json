@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\emirgzc\\source\\repos\\MyFirstProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{74B66CE0-2CC4-4B46-BC60-5CA241976DBE}|Arrays\\Arrays.csproj|c:\\users\\emirgzc\\source\\repos\\myfirstproject\\arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74B66CE0-2CC4-4B46-BC60-5CA241976DBE}|Arrays\\Arrays.csproj|solutionrelative:arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DEFE5EA3-B9EF-44BD-860C-4DEFBA84DFA2}|Collection\\Collection.csproj|c:\\users\\emirgzc\\source\\repos\\myfirstproject\\collection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFE5EA3-B9EF-44BD-860C-4DEFBA84DFA2}|Collection\\Collection.csproj|solutionrelative:collection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\emirgzc\\source\\repos\\MyFirstProject\\Arrays\\Program.cs",
-              "RelativeDocumentMoniker": "Arrays\\Program.cs",
-              "ToolTip": "C:\\Users\\emirgzc\\source\\repos\\MyFirstProject\\Arrays\\Program.cs",
-              "RelativeToolTip": "Arrays\\Program.cs",
-              "ViewState": "AQIAAE8AAAAAAAAAAAAAAF0AAAAWAAAA",
+              "DocumentMoniker": "C:\\Users\\emirgzc\\source\\repos\\MyFirstProject\\Collection\\Program.cs",
+              "RelativeDocumentMoniker": "Collection\\Program.cs",
+              "ToolTip": "C:\\Users\\emirgzc\\source\\repos\\MyFirstProject\\Collection\\Program.cs",
+              "RelativeToolTip": "Collection\\Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwCcAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T19:31:55.003Z",
+              "WhenOpened": "2024-03-18T20:08:28.942Z",
               "EditorCaption": ""
             }
           ]
