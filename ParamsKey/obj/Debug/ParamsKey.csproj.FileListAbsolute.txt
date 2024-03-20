@@ -1,0 +1,7 @@
+C:\Users\emirgzc\source\repos\MyFirstProject\ParamsKey\bin\Debug\ParamsKey.exe.config
+C:\Users\emirgzc\source\repos\MyFirstProject\ParamsKey\bin\Debug\ParamsKey.exe
+C:\Users\emirgzc\source\repos\MyFirstProject\ParamsKey\bin\Debug\ParamsKey.pdb
+C:\Users\emirgzc\source\repos\MyFirstProject\ParamsKey\obj\Debug\ParamsKey.csproj.AssemblyReference.cache
+C:\Users\emirgzc\source\repos\MyFirstProject\ParamsKey\obj\Debug\ParamsKey.csproj.CoreCompileInputs.cache
+C:\Users\emirgzc\source\repos\MyFirstProject\ParamsKey\obj\Debug\ParamsKey.exe
+C:\Users\emirgzc\source\repos\MyFirstProject\ParamsKey\obj\Debug\ParamsKey.pdb

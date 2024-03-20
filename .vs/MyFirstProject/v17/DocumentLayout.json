@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\emirgzc\\source\\repos\\MyFirstProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DEFE5EA3-B9EF-44BD-860C-4DEFBA84DFA2}|Collection\\Collection.csproj|c:\\users\\emirgzc\\source\\repos\\myfirstproject\\collection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEFE5EA3-B9EF-44BD-860C-4DEFBA84DFA2}|Collection\\Collection.csproj|solutionrelative:collection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{63100473-5812-4B7B-B4F4-E9F370A376E7}|Class\\Class.csproj|c:\\users\\emirgzc\\source\\repos\\myfirstproject\\class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63100473-5812-4B7B-B4F4-E9F370A376E7}|Class\\Class.csproj|solutionrelative:class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63100473-5812-4B7B-B4F4-E9F370A376E7}|Class\\Class.csproj|c:\\users\\emirgzc\\source\\repos\\myfirstproject\\class\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63100473-5812-4B7B-B4F4-E9F370A376E7}|Class\\Class.csproj|solutionrelative:class\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\emirgzc\\source\\repos\\MyFirstProject\\Class\\Product.cs",
+              "RelativeDocumentMoniker": "Class\\Product.cs",
+              "ToolTip": "C:\\Users\\emirgzc\\source\\repos\\MyFirstProject\\Class\\Product.cs",
+              "RelativeToolTip": "Class\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T19:32:23.953Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\emirgzc\\source\\repos\\MyFirstProject\\Collection\\Program.cs",
-              "RelativeDocumentMoniker": "Collection\\Program.cs",
-              "ToolTip": "C:\\Users\\emirgzc\\source\\repos\\MyFirstProject\\Collection\\Program.cs",
-              "RelativeToolTip": "Collection\\Program.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAQwCcAAAACAAAA",
+              "DocumentMoniker": "C:\\Users\\emirgzc\\source\\repos\\MyFirstProject\\Class\\Program.cs",
+              "RelativeDocumentMoniker": "Class\\Program.cs",
+              "ToolTip": "C:\\Users\\emirgzc\\source\\repos\\MyFirstProject\\Class\\Program.cs",
+              "RelativeToolTip": "Class\\Program.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAgwEUAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T20:08:28.942Z",
+              "WhenOpened": "2024-03-20T18:51:11.26Z",
               "EditorCaption": ""
             }
           ]

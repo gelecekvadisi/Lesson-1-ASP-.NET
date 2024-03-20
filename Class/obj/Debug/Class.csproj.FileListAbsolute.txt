@@ -1,0 +1,7 @@
+C:\Users\emirgzc\source\repos\MyFirstProject\Class\bin\Debug\Class.exe.config
+C:\Users\emirgzc\source\repos\MyFirstProject\Class\bin\Debug\Class.exe
+C:\Users\emirgzc\source\repos\MyFirstProject\Class\bin\Debug\Class.pdb
+C:\Users\emirgzc\source\repos\MyFirstProject\Class\obj\Debug\Class.csproj.AssemblyReference.cache
+C:\Users\emirgzc\source\repos\MyFirstProject\Class\obj\Debug\Class.csproj.CoreCompileInputs.cache
+C:\Users\emirgzc\source\repos\MyFirstProject\Class\obj\Debug\Class.exe
+C:\Users\emirgzc\source\repos\MyFirstProject\Class\obj\Debug\Class.pdb

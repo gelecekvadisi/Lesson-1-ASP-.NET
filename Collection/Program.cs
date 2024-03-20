@@ -16,6 +16,8 @@ namespace Collection
 			// int[] -> dizi
 			// List<int> -> liste
 
+			int[] dizi1 = { 1, 3, 5, 7, 9 };
+
 			List<int> sayilar = new List<int>();
 			sayilar.Add(15); // listeye eleman ekleme
 			sayilar.Add(22);
