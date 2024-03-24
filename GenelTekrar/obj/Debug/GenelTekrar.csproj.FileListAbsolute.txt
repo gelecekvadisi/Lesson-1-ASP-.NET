@@ -1,0 +1,7 @@
+C:\Users\emirgzc\source\repos\MyFirstProject\GenelTekrar\bin\Debug\GenelTekrar.exe.config
+C:\Users\emirgzc\source\repos\MyFirstProject\GenelTekrar\bin\Debug\GenelTekrar.exe
+C:\Users\emirgzc\source\repos\MyFirstProject\GenelTekrar\bin\Debug\GenelTekrar.pdb
+C:\Users\emirgzc\source\repos\MyFirstProject\GenelTekrar\obj\Debug\GenelTekrar.csproj.AssemblyReference.cache
+C:\Users\emirgzc\source\repos\MyFirstProject\GenelTekrar\obj\Debug\GenelTekrar.csproj.CoreCompileInputs.cache
+C:\Users\emirgzc\source\repos\MyFirstProject\GenelTekrar\obj\Debug\GenelTekrar.exe
+C:\Users\emirgzc\source\repos\MyFirstProject\GenelTekrar\obj\Debug\GenelTekrar.pdb

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\emirgzc\\source\\repos\\MyFirstProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{63100473-5812-4B7B-B4F4-E9F370A376E7}|Class\\Class.csproj|c:\\users\\emirgzc\\source\\repos\\myfirstproject\\class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63100473-5812-4B7B-B4F4-E9F370A376E7}|Class\\Class.csproj|solutionrelative:class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{62176435-EBDB-481E-B032-91F3B5B037F1}|GenelTekrar\\GenelTekrar.csproj|c:\\users\\emirgzc\\source\\repos\\myfirstproject\\geneltekrar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62176435-EBDB-481E-B032-91F3B5B037F1}|GenelTekrar\\GenelTekrar.csproj|solutionrelative:geneltekrar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63100473-5812-4B7B-B4F4-E9F370A376E7}|Class\\Class.csproj|c:\\users\\emirgzc\\source\\repos\\myfirstproject\\class\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63100473-5812-4B7B-B4F4-E9F370A376E7}|Class\\Class.csproj|solutionrelative:class\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{62176435-EBDB-481E-B032-91F3B5B037F1}|GenelTekrar\\GenelTekrar.csproj|c:\\users\\emirgzc\\source\\repos\\myfirstproject\\geneltekrar\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62176435-EBDB-481E-B032-91F3B5B037F1}|GenelTekrar\\GenelTekrar.csproj|solutionrelative:geneltekrar\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\emirgzc\\source\\repos\\MyFirstProject\\Class\\Product.cs",
-              "RelativeDocumentMoniker": "Class\\Product.cs",
-              "ToolTip": "C:\\Users\\emirgzc\\source\\repos\\MyFirstProject\\Class\\Product.cs",
-              "RelativeToolTip": "Class\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Title": "Araba.cs",
+              "DocumentMoniker": "C:\\Users\\emirgzc\\source\\repos\\MyFirstProject\\GenelTekrar\\Araba.cs",
+              "RelativeDocumentMoniker": "GenelTekrar\\Araba.cs",
+              "ToolTip": "C:\\Users\\emirgzc\\source\\repos\\MyFirstProject\\GenelTekrar\\Araba.cs",
+              "RelativeToolTip": "GenelTekrar\\Araba.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T19:32:23.953Z",
+              "WhenOpened": "2024-03-24T19:55:13.902Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\emirgzc\\source\\repos\\MyFirstProject\\Class\\Program.cs",
-              "RelativeDocumentMoniker": "Class\\Program.cs",
-              "ToolTip": "C:\\Users\\emirgzc\\source\\repos\\MyFirstProject\\Class\\Program.cs",
-              "RelativeToolTip": "Class\\Program.cs",
-              "ViewState": "AQIAADgAAAAAAAAAAAAgwEUAAAATAAAA",
+              "DocumentMoniker": "C:\\Users\\emirgzc\\source\\repos\\MyFirstProject\\GenelTekrar\\Program.cs",
+              "RelativeDocumentMoniker": "GenelTekrar\\Program.cs",
+              "ToolTip": "C:\\Users\\emirgzc\\source\\repos\\MyFirstProject\\GenelTekrar\\Program.cs",
+              "RelativeToolTip": "GenelTekrar\\Program.cs",
+              "ViewState": "AQIAAOIAAAAAAAAAAAAgwOgAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T18:51:11.26Z",
+              "WhenOpened": "2024-03-24T18:09:21.869Z",
               "EditorCaption": ""
             }
           ]
