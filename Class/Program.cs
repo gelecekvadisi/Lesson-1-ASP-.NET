@@ -71,6 +71,34 @@ namespace Class
 
 			Console.WriteLine($"ürün adı: {product.Ad}, ürün fiyat: {product.Fiyat}");
 
+			Console.WriteLine("------------------");
+
+			// CONSTRUCTOR(YAPICI METOT)
+
+			Car car = new Car("renault", "megane");
+			Console.WriteLine(car.Marka + " " + car.Model);
+
+			Console.WriteLine("------------------");
+
+			Book book = new Book("Sefiller", "Victor Hugo", 155);
+			Console.WriteLine(book.Ad + " " + book.Yazar + " " + book.SayfaSayisi);
+
+			Console.WriteLine("------------------");
+
+			Calisan calisan = new Calisan();
+			Calisan calisan1 = new Calisan("Emir", "Bilgisayar", 1500);
+			calisan.BilgileriGoster();
+
+			Console.WriteLine("------------------");
+
+			Ogrenci ogrenci = new Ogrenci();
+			ogrenci.Ad = "Mehmet Yıldız";
+			ogrenci.DersEkle("Matematik");
+			ogrenci.DersEkle("Tarih");
+			ogrenci.DersEkle("Biyoloji");
+
+			ogrenci.DersleriListele();
+
 			Console.ReadLine();
 		}
 	}

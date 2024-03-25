@@ -1,0 +1,7 @@
+C:\Users\emirgzc\source\repos\MyFirstProject\ErisimBelirleyiciler\bin\Debug\ErisimBelirleyiciler.exe.config
+C:\Users\emirgzc\source\repos\MyFirstProject\ErisimBelirleyiciler\bin\Debug\ErisimBelirleyiciler.exe
+C:\Users\emirgzc\source\repos\MyFirstProject\ErisimBelirleyiciler\bin\Debug\ErisimBelirleyiciler.pdb
+C:\Users\emirgzc\source\repos\MyFirstProject\ErisimBelirleyiciler\obj\Debug\ErisimBelirleyiciler.csproj.AssemblyReference.cache
+C:\Users\emirgzc\source\repos\MyFirstProject\ErisimBelirleyiciler\obj\Debug\ErisimBelirleyiciler.csproj.CoreCompileInputs.cache
+C:\Users\emirgzc\source\repos\MyFirstProject\ErisimBelirleyiciler\obj\Debug\ErisimBelirleyiciler.exe
+C:\Users\emirgzc\source\repos\MyFirstProject\ErisimBelirleyiciler\obj\Debug\ErisimBelirleyiciler.pdb

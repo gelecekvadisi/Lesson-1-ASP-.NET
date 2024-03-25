@@ -1,0 +1,7 @@
+C:\Users\emirgzc\source\repos\MyFirstProject\Kalıtım\bin\Debug\Kalıtım.exe.config
+C:\Users\emirgzc\source\repos\MyFirstProject\Kalıtım\bin\Debug\Kalıtım.exe
+C:\Users\emirgzc\source\repos\MyFirstProject\Kalıtım\bin\Debug\Kalıtım.pdb
+C:\Users\emirgzc\source\repos\MyFirstProject\Kalıtım\obj\Debug\Kalıtım.csproj.AssemblyReference.cache
+C:\Users\emirgzc\source\repos\MyFirstProject\Kalıtım\obj\Debug\Kalıtım.csproj.CoreCompileInputs.cache
+C:\Users\emirgzc\source\repos\MyFirstProject\Kalıtım\obj\Debug\Kalıtım.exe
+C:\Users\emirgzc\source\repos\MyFirstProject\Kalıtım\obj\Debug\Kalıtım.pdb
